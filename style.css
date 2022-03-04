@@ -1,0 +1,58 @@
+body {
+    background-image: url(nybakgrunn.jpeg);
+    background-size: 1500px 800px;   
+}
+    *{
+     margin: 0 auto;
+    }
+
+    .player {
+        color: red;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        float: left;
+        font-size: 3rem;
+        margin: 15px;
+        padding: 10px;
+        border-radius: 15px;   
+    }
+
+.boss {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+    font-size: 3rem;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;   
+}
+
+
+.playerSize {
+    height: 400px;
+    height: 500px;
+    margin-bottom: 400px;
+    margin-top: 100px;
+}
+
+
+.bossSize {
+    height: 400px;
+    height: 500px;
+    margin-bottom: 400px;
+    margin-top: 100px;
+    margin-right: 150px;
+}
+
+.attack {
+    height: 70px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.reset {
+    height: 70px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    margin-top:20px;
+}   
